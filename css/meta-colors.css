@@ -1,0 +1,92 @@
+@import url("config.css");
+
+:root {
+
+/* Primary */
+--primary-base: calc((98% - var(--primary-color-l)) / 5);
+
+--primary0-h: var(--primary-color-h);
+--primary0-s: var(--primary-color-s);
+--primary0-l: 100%;
+--primary50-h: var(--primary-color-h);
+--primary50-s: var(--primary-color-s);
+--primary50-l: 98%;
+--primary100-h: var(--primary-color-h);
+--primary100-s: var(--primary-color-s);
+--primary100-l: calc(var(--primary-base) * 9);
+--primary200-h: var(--primary-color-h);
+--primary200-s: var(--primary-color-s);
+--primary200-l: calc(var(--primary-base) * 8);
+--primary300-h: var(--primary-color-h);
+--primary300-s: var(--primary-color-s);
+--primary300-l: calc(var(--primary-base) * 7);
+--primary400-h: var(--primary-color-h);
+--primary400-s: var(--primary-color-s);
+--primary400-l: calc(var(--primary-base) * 6);
+--primary500-h: var(--primary-color-h);
+--primary500-s: var(--primary-color-s);
+--primary500-l: calc(var(--primary-base) * 5);
+--primary600-h: var(--primary-color-h);
+--primary600-s: var(--primary-color-s);
+--primary600-l: calc(var(--primary-base) * 4);
+--primary700-h: var(--primary-color-h);
+--primary700-s: var(--primary-color-s);
+--primary700-l: calc(var(--primary-base) * 3);
+--primary800-h: var(--primary-color-h);
+--primary800-s: var(--primary-color-s);
+--primary800-l: calc(var(--primary-base) * 2);
+--primary900-h: var(--primary-color-h);
+--primary900-s: var(--primary-color-s);
+--primary900-l: calc(var(--primary-base) * 1);
+--primary950-h: var(--primary-color-h);
+--primary950-s: var(--primary-color-s);
+--primary950-l: 6%;
+--primary1000-h: var(--primary-color-h);
+--primary1000-s: var(--primary-color-s);
+--primary1000-l: 0%;
+
+
+/* bnw */
+--bnw-base: calc((98% - var(--bnw-color-l)) / 5);
+
+--bnw0-h: var(--bnw-color-h);
+--bnw0-s: var(--bnw-color-s);
+--bnw0-l: 100%;
+--bnw50-h: var(--bnw-color-h);
+--bnw50-s: var(--bnw-color-s);
+--bnw50-l: 98%;
+--bnw100-h: var(--bnw-color-h);
+--bnw100-s: var(--bnw-color-s);
+--bnw100-l: calc(var(--bnw-base) * 9);
+--bnw200-h: var(--bnw-color-h);
+--bnw200-s: var(--bnw-color-s);
+--bnw200-l: calc(var(--bnw-base) * 8);
+--bnw300-h: var(--bnw-color-h);
+--bnw300-s: var(--bnw-color-s);
+--bnw300-l: calc(var(--bnw-base) * 7);
+--bnw400-h: var(--bnw-color-h);
+--bnw400-s: var(--bnw-color-s);
+--bnw400-l: calc(var(--bnw-base) * 6);
+--bnw500-h: var(--bnw-color-h);
+--bnw500-s: var(--bnw-color-s);
+--bnw500-l: calc(var(--bnw-base) * 5);
+--bnw600-h: var(--bnw-color-h);
+--bnw600-s: var(--bnw-color-s);
+--bnw600-l: calc(var(--bnw-base) * 4);
+--bnw700-h: var(--bnw-color-h);
+--bnw700-s: var(--bnw-color-s);
+--bnw700-l: calc(var(--bnw-base) * 3);
+--bnw800-h: var(--bnw-color-h);
+--bnw800-s: var(--bnw-color-s);
+--bnw800-l: calc(var(--bnw-base) * 2);
+--bnw900-h: var(--bnw-color-h);
+--bnw900-s: var(--bnw-color-s);
+--bnw900-l: calc(var(--bnw-base) * 1);
+--bnw950-h: var(--bnw-color-h);
+--bnw950-s: var(--bnw-color-s);
+--bnw950-l: 6%;
+--bnw1000-h: var(--bnw-color-h);
+--bnw1000-s: var(--bnw-color-s);
+--bnw1000-l: 0%;
+
+}

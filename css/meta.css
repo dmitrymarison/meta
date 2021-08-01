@@ -1,0 +1,26 @@
+@import url("config.css");
+@import url("meta-colors.css");
+@import url("meta-boxes.css");
+
+:root {
+  --m: 6;
+  --mm: calc(var(--m) * 2);
+  --mn: calc(var(--m) / 2);
+  --mnm: calc(var(--m) / 3);
+
+/* Text styles */
+  --base-heading: calc(var(--elvl) * 3px + var(--mm));
+  --heading-step: 6px;
+  --base-text: calc(var(--elvl) * 2px); /*надо бы ещё подумать над этой формулой */
+  --text-step: 3px;
+
+/* Sizes */
+  --sizeN: 0;
+  --sizeXS: 1;
+  --sizeS: 2;
+  --sizeM: 3;
+  --sizeL: 4;
+  --sizeXL: 5;
+  --sizeH: 6;
+
+}

@@ -1,0 +1,37 @@
+@import url("meta.css");
+
+h1 {
+  --heading-level: calc(5 * var(--heading-step));
+  font-size: calc(var(--base-heading) + var(--heading-level));
+}
+
+h2 {
+  --heading-level: calc(4 * var(--heading-step));
+  font-size: calc(var(--base-heading) + var(--heading-level));
+}
+
+h3 {
+  --heading-level: calc(3 * var(--heading-step));
+  font-size: calc(var(--base-heading) + var(--heading-level));
+}
+
+h4 {
+  --heading-level: calc(2 * var(--heading-step));
+  font-size: calc(var(--base-heading) + var(--heading-level));
+}
+
+h5 {
+  --heading-level: calc(1 * var(--heading-step));
+  font-size: calc(var(--base-heading) + var(--heading-level));
+}
+
+h6 {
+  --heading-level: calc(0 * var(--heading-step));
+  font-size: calc(var(--base-heading) + var(--heading-level));
+}
+
+p  {
+  --text-level: calc(3 * var(--text-step));
+  font-size: calc(var(--base-text) + var(--text-level));
+  margin: 0;
+}

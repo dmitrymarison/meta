@@ -1,0 +1,97 @@
+@import url("colors.css");
+
+.box50 {
+  background-color: var(--primary50);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box100 {
+  background-color: var(--primary100);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box200 {
+  background-color: var(--primary200);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box300 {
+  background-color: var(--primary300);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box400 {
+  background-color: var(--primary400);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box500 {
+  background-color: var(--primary500);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box600 {
+  background-color: var(--primary600);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box700 {
+  background-color: var(--primary700);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box800 {
+  background-color: var(--primary800);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box900 {
+  background-color: var(--primary900);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box950 {
+  background-color: var(--primary950);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
+
+.box1000 {
+  background-color: var(--primary1000);
+  padding-left: 9px;
+  padding-right: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+}
