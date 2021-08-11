@@ -4,14 +4,14 @@
 
   --mlvl: 3; /* Main level */
   --alvl: 3; /* Air level */
-  --clvl: 3; /* Component level */
+  --clvl: 2; /* Component level */
   --elvl: 3; /* Element level */
 
 
   /* Style parameters */
 
   --rlvl: 2; /* Round level */
-  --blvl: 2; /* Border level */
+  --blvl: 1.5; /* Border level */
 
 
   /* Colors */

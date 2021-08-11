@@ -1,5 +1,13 @@
 @import url("meta.css");
 
 body {
-  background-color: var(--bnw100);
+  background-color: var(--bnw0);
+}
+
+* {
+  margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p, .text-M {
+  font-family: "TT Hoves";
 }

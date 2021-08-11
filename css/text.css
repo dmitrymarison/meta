@@ -35,3 +35,11 @@ p  {
   font-size: calc(var(--base-text) + var(--text-level));
   margin: 0;
 }
+
+.text-M  {
+  --text-level: calc(3 * var(--text-step));
+  font-size: calc(var(--base-text) + var(--text-level));
+  line-height: calc(var(--m) * 2 * 1px);
+  margin: 0;
+  margin-top: 1px;
+}

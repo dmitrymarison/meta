@@ -24,3 +24,7 @@
   --sizeH: 6;
 
 }
+
+body {
+  margin: 0;
+}

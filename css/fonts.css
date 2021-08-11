@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "TT Hoves";
+    font-style: normal;
+    font-weight: 600;
+    src:
+      url(local("TT Hoves"),
+      url(./src/fonts/TypeType - TT Hoves Bold.ttf),
+      url(./src/fonts/TypeType - TT Hoves Bold.woff);
+}
+
+@font-face {
+    font-family: "TT Hoves";
+    font-style: normal;
+    font-weight: 500;
+    src:
+      url(local("TT Hoves"),
+      url(./src/fonts/TypeType - TT Hoves Medium.ttf),
+      url(./src/fonts/TypeType - TT Hoves Medium.woff);
+}
+
+@font-face {
+    font-family: "TT Hoves";
+    font-style: normal;
+    font-weight: 400;
+    src:
+      url(local("TT Hoves"),
+      url(./src/fonts/TypeType - TT Hoves Regular.ttf),
+      url(./src/fonts/TypeType - TT Hoves Regular.woff);
+}
